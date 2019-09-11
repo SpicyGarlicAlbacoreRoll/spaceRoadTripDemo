@@ -5,6 +5,7 @@ Public webgl build of a little game I'm making in Unity about road tripping acro
 Controls: 
 W/S: Pitch
 A/D: Yaw
+Q/E: Roll
 SPACEBAR: Drive
 SHIFT + SPACEBAR: Reverse
 
